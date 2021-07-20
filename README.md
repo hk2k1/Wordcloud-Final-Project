@@ -1,6 +1,7 @@
 # Wordcloud-Final-Project
 
 This project was done as the final project in Crash Course Python from Google IT Automation Professional Certificate.
+Full project details can be found here: https://drive.google.com/drive/folders/1mr1ei71ZuqCWB7drl6LPk6xsPaXixLm4?usp=sharing
 
    Crash Course on Python
                     By google	
